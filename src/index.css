@@ -71,3 +71,28 @@ body {
 .menu-label {
   display: none;
 }
+
+/* ==================== BODY ==================== */
+
+.body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 65px 10px;
+  width: 100%;
+}
+
+/* ==================== MAIN BUSQUEDA ==================== */
+
+.main {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  background-color: white;
+}
+
+.search-mascota {
+  height: 30px;
+  width: 200px;
+  text-align: center;
+}
