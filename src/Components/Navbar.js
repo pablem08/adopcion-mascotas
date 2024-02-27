@@ -3,6 +3,7 @@ import logo from "../Img/logo_horizontal.png";
 export default function Navbar() {
   return (
     <>
+    {/* -------- HEADER -------- */}
       <header className="header">
         <img src={logo} alt="logo" className="logo" />
         <h1 className="titulo-header">MASCOTAS EN ADOPCIÓN</h1>
